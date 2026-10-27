@@ -2,14 +2,14 @@
 Pentest UK2(Uji Kompetensi PT Lauwba).
 
 ## Target :
-1. Lisna : rinjaniproject.my.id
-    -) [Laporan](Lisna-Rinjani/INDEX.md)
+1. Lisna : inventory.rinjaniproject.my.id
+    - [Laporan](Lisna-Rinjani/INDEX.md)
 
-2. Amel : rafcimelproject.my.id
-    -) [Laporan](Cinta-Amel/INDEX.md)
+2. Amel : klinik.rafcimelproject.my.id
+    - [Laporan](Cinta-Amel/INDEX.md)
 
-3. Diki : dikiproject.my.id
-    -) [Laporan](Diki-Agustian/INDEX.md)
+3. Diki : nexorapost.dikiproject.my.id
+    - [Laporan](Diki-Agustian/INDEX.md)
 
 ---
 
