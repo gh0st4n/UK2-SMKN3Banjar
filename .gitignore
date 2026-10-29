@@ -1,1 +1,4 @@
 .obsidian/
+# Windows Zone.Identifier (Mark of the Web)
+*:Zone.Identifier
+*.Zone.Identifier
